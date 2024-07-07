@@ -1,0 +1,14 @@
+C:\git\DM_Project\Q2\bin\Debug\net8.0\Q2.exe
+C:\git\DM_Project\Q2\bin\Debug\net8.0\Q2.deps.json
+C:\git\DM_Project\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+C:\git\DM_Project\Q2\bin\Debug\net8.0\Q2.dll
+C:\git\DM_Project\Q2\bin\Debug\net8.0\Q2.pdb
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.dll
+C:\git\DM_Project\Q2\obj\Debug\net8.0\refint\Q2.dll
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.pdb
+C:\git\DM_Project\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+C:\git\DM_Project\Q2\obj\Debug\net8.0\ref\Q2.dll
